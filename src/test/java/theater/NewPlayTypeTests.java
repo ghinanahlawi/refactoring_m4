@@ -48,8 +48,9 @@ public class NewPlayTypeTests {
             List<Performance> performances = new ArrayList<>();
             for (Object s : jperformances) {
                 JSONObject performance = (JSONObject) s;
-                performances.add(new Performance(performance.getString("playID"),
-                        performance.getInt("audience")));
+                String playID = performance.getString("playID");
+                int audience = performance.getInt("audience");
+                performances.add(new Performance(playID, audience));
             }
 
             Invoice invoice = new Invoice(customer, performances);
