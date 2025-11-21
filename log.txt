@@ -1,2 +1,4 @@
-d8031a2 (HEAD -> main, origin/main, origin/HEAD) Task 1.1: Fix Checkstyle issues
+9e0459b (HEAD -> main, origin/main, origin/HEAD) Task 1.1: fixing all checkstyle
+9dbdb54 Task 1.2: logging updates
+d8031a2 Task 1.1: Fix Checkstyle issues
 b9312a5 Initial commit
