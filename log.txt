@@ -29,4 +29,13 @@ a073d8d Task 2.1: Rafactoring
 60372f6 Task 1.2: updating log.txt
 9e0459b Task 1.1: fixing all checkstyle
 9dbdb54 Task 1.2: logging updates
-:
+
+02aa7b9 (HEAD -> main, origin/main, origin/HEAD) Task 2.4: Removing Total Volume Credits and Total Amount
+dad6215 updating log.txt
+63baa2d Task 2.3: removing frmt variable
+afc9638 Update log.txt after task 2.2
+8a1d64d Task 2.2: Extracting Volume Credits
+9b238f8 update log.txt
+a1ec144 Task 2.1: finish all of 2.1 and inline rslt(previously thisAmount)
+a073d8d Task 2.1: Rafactoring
+60372f6 Task 1.2: updating log.txt
