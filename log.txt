@@ -2,3 +2,10 @@
 9dbdb54 Task 1.2: logging updates
 d8031a2 Task 1.1: Fix Checkstyle issues
 b9312a5 Initial commit
+
+a1ec144 (HEAD -> main, origin/main, origin/HEAD) Task 2.1: finish all of 2.1 and inline rslt(previously thisAmount)
+a073d8d Task 2.1: Rafactoring
+60372f6 Task 1.2: updating log.txt
+9e0459b Task 1.1: fixing all checkstyle
+9dbdb54 Task 1.2: logging updates
+d8031a2 Task 1.1: Fix Checkstyle issues
